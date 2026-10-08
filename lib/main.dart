@@ -1392,7 +1392,11 @@ class PaintPageState extends State<PaintPage> {
                   },
                   onTapDown: (details) {
                     if(selectedTool==ToolType.eyedropper) {
-                      pickColor(details.localPosition);
+                      Offset position = Offset(
+                        (details.localPosition.dx - canvasOffset.dx) / canvasScale,
+                        (details.localPosition.dy - canvasOffset.dy) / canvasScale,
+                      );
+                      pickColor(position);
                     }
                   },
                   child: SizedBox.expand(
