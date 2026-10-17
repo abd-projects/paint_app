@@ -128,5 +128,5 @@ This project explores Flutter application development through practical implemen
 ## Screenshots
 
 <img width="343" height="690" alt="image" src="https://github.com/user-attachments/assets/18989074-103c-40e9-a460-0849cf4c369f" />
-<img width="346" height="587" alt="image" src="https://github.com/user-attachments/assets/af71d3ea-c1d2-40b3-b0ce-b247a514ab39" />
 <img width="338" height="552" alt="image" src="https://github.com/user-attachments/assets/de3c86ec-f287-46d2-86eb-97b4b3c6ee54" />
+<img width="359" height="674" alt="image" src="https://github.com/user-attachments/assets/2ba4d095-e163-43cd-ac01-36e17cac51cc" />
